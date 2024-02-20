@@ -1,4 +1,4 @@
-## Rooba Finance Smart Wallet 💳
+## Rooba Finance Smart Wallet Client 💳
 
 **An ERC-4337 compatible smart wallet for Rooba Finance Users.**
 <br/>
@@ -29,6 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Contract Addresses (Polygon Mumbai)
 [Entrypoint contract](https://mumbai.polygonscan.com/address/0x0576a174d229e3cfa37253523e645a78a0c91b57)
+<br/>
 [Rooba Account Factory](https://mumbai.polygonscan.com/address/0x272Eb3dA5A96421555f02f7175020143eA7542C9)
 
 Check out the smart contracts [Rooba Smart Wallet Contracts](https://github.com/alfheimrShiven/rooba-finance-smart-wallet.git) for smart contract implementation.
