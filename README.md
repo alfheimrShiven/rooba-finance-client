@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Rooba Finance Smart Wallet 💳
+
+**An ERC-4337 compatible smart wallet for Rooba Finance Users.**
+<br/>
+
+⚡️ The project provides a **non-bloated (no external SDK used) and extremely optimized** ERC-4337 smart account system customed made for Rooba Finance's specific requirements.
+
+### Features
+
+-   **Issue Smart Wallets**: All Rooba Finance users can have access to smart wallets which will provide an invisible wallet experience to our users.
+-   **Wallet Deactivation**: Users can chose to deactivate their smart wallets whenever they chose to. Their ETH will be secured by our protocol and can be restored later.
+-   **Wallet Reactivation**: Users can chose to reactivate their smart wallets whenever they chose to with all ETH restored back.
 
 ## Getting Started
 
@@ -16,21 +27,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out the smart contracts [Rooba Smart Wallet Contracts](https://github.com/alfheimrShiven/rooba-finance-smart-wallet.git) for smart contract implementation.
